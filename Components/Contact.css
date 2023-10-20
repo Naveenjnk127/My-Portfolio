@@ -1,0 +1,16 @@
+.contact-details{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+}
+
+h2{
+    background: linear-gradient(30deg, #945cd8, #6976d1, #1c99b8);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
